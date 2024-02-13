@@ -9,7 +9,9 @@ GIT
 5. add the logs:------- git commit -m "learned binary search and recursion"
     to show the logs:---- git log
 6. add the origin:------- git remote add origin https://github.com/MZHabib123/dsa.git
-7. git remote -v
-8. git push -u origin main
-9. git pull origin main
-10. 
+7. check the remote origin:------ git remote -v
+8. push the code to online repo:------- git push -u origin main
+9. pull the code from online repo:------ git pull origin main
+10. creating new branch:------- git branch <branchname>
+11. log the branches:----- git branch
+12. to change the branch:------ git checkout linked_list
