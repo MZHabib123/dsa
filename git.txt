@@ -1,13 +1,14 @@
 GIT
 
-1. git init
+1. create new .git folder:----- git init
 2. git add
 	to add all files:------ git add .
 	specific file or folder:------ git add <filename>
 3. to check the status:--------- git status
-4. git rm --cached BinarySearch.cpp
-5. git commit -m "learned binary search and recursion"
-6. git remote add origin https://github.com/MZHabib123/dsa.git
+4. to remove the staged files:----- git rm --cached BinarySearch.cpp
+5. add the logs:------- git commit -m "learned binary search and recursion"
+    to show the logs:---- git log
+6. add the origin:------- git remote add origin https://github.com/MZHabib123/dsa.git
 7. git remote -v
 8. git push -u origin main
 9. git pull origin main

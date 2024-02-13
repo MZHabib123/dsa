@@ -1,1 +1,0 @@
- // completionTime[0] = processes[0].burst_time;
