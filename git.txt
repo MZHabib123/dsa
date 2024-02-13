@@ -7,3 +7,7 @@ GIT
 3. to check the status:--------- git status
 4. git rm --cached BinarySearch.cpp
 5. git commit -m "learned binary search and recursion"
+6. git remote add origin https://github.com/MZHabib123/dsa.git
+7. git remote -v
+8. git push -u origin main
+9. 
