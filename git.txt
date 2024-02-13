@@ -1,0 +1,9 @@
+GIT
+
+1. git init
+2. git add
+	to add all files:------ git add .
+	specific file or folder:------ git add <filename>
+3. to check the status:--------- git status
+4. git rm --cached BinarySearch.cpp
+5. git commit -m "learned binary search and recursion"
